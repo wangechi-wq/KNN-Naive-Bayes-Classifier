@@ -1,3 +1,7 @@
+****KNN & Naive Bayes Classifier Data Science Project********
+
+**by Wangechi Mungai**
+
 **OVERVIEW**
 
 
